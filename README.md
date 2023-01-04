@@ -51,8 +51,12 @@ Con la ilusión de poder conseguir mi primer empleo en este rubro, seguiré mejo
 
 ### Contactame!
 
+<div align="center">
+<a href="https://linkedin.com/in/ignacio martin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
 email: ignaciomartinit@gmail.com
-LinkedIn: www.linkedin.com/in/ignaciomartinfsd
 
 
 <!--
