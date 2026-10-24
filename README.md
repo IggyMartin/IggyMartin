@@ -47,26 +47,10 @@ animations that explain the workflows behind the applications.
 ## Technologies & integrations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,git&theme=dark" alt="JavaScript, React, Next.js, HTML, CSS, and Git" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,git&theme=dark" alt="JavaScript, React, Next.js, SQL, PostgreSQL, Docker, Git" />
 </p>
 
 **Integrations:** REST APIs · Meta WhatsApp Cloud API · Odoo
-
-## GitHub activity
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Igmarti&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true"
-    alt="Ignacio's public GitHub statistics"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igmarti&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used languages across public repositories"
-  />
-</p>
 
 ## Let's connect
 
