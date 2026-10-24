@@ -47,7 +47,10 @@ animations that explain the workflows behind the applications.
 ## Technologies & integrations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,git&theme=dark" alt="JavaScript, React, Next.js, SQL, PostgreSQL, Docker, Git" />
+  <img
+    src="https://skillicons.dev/icons?i=js,react,nextjs,postgres,docker,git&theme=dark"
+    alt="JavaScript, React, Next.js, PostgreSQL, Docker, and Git"
+  />
 </p>
 
 **Integrations:** REST APIs · Meta WhatsApp Cloud API · Odoo
