@@ -1,57 +1,73 @@
+# Hi, I'm Ignacio Martin
 
+**Full-stack developer · Based in Argentina**
 
-# Ignacio Martin
+I build web applications that connect intuitive interfaces with business
+workflows, APIs, and automation. My work includes healthcare management
+platforms, e-commerce integrations, and automated messaging.
 
-### Full-stack developer based in Argentina
+I enjoy understanding how a business operates and turning those needs into
+practical software—from the interface to the logic and integrations behind it.
 
-I build web applications that connect user interfaces with business workflows, APIs, and automation. My work includes healthcare management tools, e-commerce integrations, and automated messaging.
+<p>
+  <a href="https://www.linkedin.com/in/ignaciomartinit/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ignaciomartinit@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email me" />
+  </a>
+</p>
 
-I enjoy working across the application—from the interface people interact with to the logic and integrations that make it useful.
-
-[Portfolio](https://iggymartin-porfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ignaciomartinit) · [Email](mailto:ignaciomartinit@gmail.com)
+**[Explore my portfolio →](https://iggymartin-porfolio.vercel.app/)**
 
 ## Selected work
 
-### Healthcare management & appointment reminders
+### MediCRM — Healthcare management platform
 
-A healthcare management project with automated WhatsApp reminders connected to appointment schedules.
+A web application for healthcare management, with appointment workflows
+and automated patient reminders.
 
-The reminder workflow identifies upcoming appointments and triggers messages according to configurable timing, using Meta’s WhatsApp Cloud API.
+My work includes integrating Meta's WhatsApp Cloud API with scheduling
+logic to send reminders based on configurable timing before appointments.
 
-### E-commerce & Odoo integration
+### E-commerce & business system integration
 
-Work connecting an e-commerce application with Odoo, including order data, product pricing, and promotional purchase flows.
+Work connecting e-commerce workflows with internal business systems,
+including order data, product pricing, and promotional purchase flows.
 
-This work involves tracing how checkout calculations translate into saved orders and the data passed between systems.
+My focus includes keeping information consistent between checkout,
+saved orders, and downstream integrations.
 
 ### Personal portfolio
 
-A closer look at my projects, with dedicated project pages and custom animations that explain the workflows behind the applications.
+A showcase of my projects, with dedicated case studies and custom
+animations that explain the workflows behind the applications.
 
-[Visit my portfolio](https://iggymartin-porfolio.vercel.app/)
+## Technologies & integrations
 
-## Technologies & focus
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,git&theme=dark" alt="JavaScript, React, Next.js, HTML, CSS, and Git" />
+</p>
 
-- **Web development:** JavaScript, React, Next.js
-- **Integrations:** REST APIs, Meta WhatsApp Cloud API, Odoo
-- **Focus areas:** Business applications, workflow automation, and connecting systems
+**Integrations:** REST APIs · Meta WhatsApp Cloud API · Odoo
 
-## Get in touch
+## GitHub activity
 
-I’m open to long-term remote opportunities with international teams.
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Igmarti&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true"
+    alt="Ignacio's public GitHub statistics"
+  />
+</p>
 
-If my work looks relevant to your team, feel free to connect through [LinkedIn](LINKEDIN_URL) or [email](mailto:YOUR_EMAIL).
-<!--
-**IggyMartin/IggyMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igmarti&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used languages across public repositories"
+  />
+</p>
 
-Here are some ideas to get you started:
+## Let's connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out on [LinkedIn](https://www.linkedin.com/in/ignaciomartinit) or by [email](mailto:ignaciomartinit@gmail.com).
